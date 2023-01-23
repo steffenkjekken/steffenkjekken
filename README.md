@@ -1,7 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently studying front end development at Noroff Bergen.
-### 🔭 I’m currently working in non-tech but looking forward to start in the field as soon as possible.
-### 📫 How to reach me: [contact form on my portefolio site](https://steffenrolland.netlify.app/)
+🌱 I’m currently studying front end development at Noroff Bergen.
+ 🔭 I’m currently working in non-tech but looking forward to start in the field as soon as possible.
+ 📫 How to reach me: [contact form on my portefolio site](https://steffenrolland.netlify.app/)
 
 
 <!--
