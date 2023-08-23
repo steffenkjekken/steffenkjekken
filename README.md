@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently studying front end development at Noroff Bergen.
-- 🔭 I’m currently working on my semester project
+- 🌱 I’m currently looking for work as a frontend developer
 - 📫 How to reach me: [contact form on my portefolio site](https://steffenrolland.netlify.app/)
 
 
